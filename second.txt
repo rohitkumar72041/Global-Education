@@ -1,4 +1,4 @@
-Hi friends..
+Hi friends..second file
 
 	This is my first page on the GIT..so i am happy.
 it is new changes
